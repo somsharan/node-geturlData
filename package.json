@@ -1,6 +1,6 @@
 ﻿{
   "name": "geturldata",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Get URL meta information and images of the particular url page",
   "main": "index.js",
   "scripts": {
@@ -14,9 +14,8 @@
   "author": "Somesh(somsharan)",
   "license": "ISC",
   "dependencies": {
-    "cheerio": "^0.19.0",
-    "request": "^2.58.0",
-    "url": "^0.10.3",
-    "valid-url": "^1.0.9"
+    "cheerio": "0.19.0",
+    "url": "0.10.3",
+    "valid-url": "1.0.9"
   }
 }

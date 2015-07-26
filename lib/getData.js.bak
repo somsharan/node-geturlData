@@ -141,10 +141,10 @@ process.env.NODE_TLS_REJECT_UNAUTHORIZED = "0";
 		resObj.images = [];		
 		for(var i = 0; i < $('img').length; i++){
 			resObj.images.push({src:$('img')[i].attribs.src, alt:$('img')[i].attribs.alt});
-			if($('img').length < 10 && i == $('img').length -1) {
+			if($('img').length < 10 && i == $('img').length -1) {console.log('came her e beforeand exit')
 				callback(null, resObj);
 				return;
-			} else if(i == 9){
+			} else if(i == 9){console.log('came her and exit')
 				callback(null, resObj);
 				//console.log('came her and exit')
 				return;
