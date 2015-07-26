@@ -7,12 +7,10 @@ npm install geturldata
 ## Fetch meta info
 
 Example
-  
-  var geturldata = require('geturldata');
-  
-  geturldata({uri:"http://example.com"}, function(err, data){
-    if(err){
-      console.log('error occured')
-    }
-    console.log(data)
-  })
+
+    var geturldata = require("geturldata");
+
+    // Fetch data
+    geturldata({uri:"http://example.com"}, function(error, data){
+        //Handel the error and the data
+    });
