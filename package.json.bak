@@ -1,7 +1,7 @@
 ﻿{
   "name": "geturldata",
   "version": "1.0.0",
-  "description": "getting or scrapping url and getting info for that",
+  "description": "Get URL meta information and images of the particular url page",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
