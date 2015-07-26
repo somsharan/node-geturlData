@@ -1,0 +1,22 @@
+{
+  "name": "geturlData",
+  "version": "0.0.0",
+  "description": "getting or scrapping url and getting info for that",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "url",
+    "fetch"
+  ],
+  "repository": "https://github.com/somsharan/node-geturlData.git"
+  "author": "Somesh",
+  "license": "ISC",
+  "devDependencies": {
+    "cheerio": "^0.19.0",
+    "request": "^2.58.0",
+    "url": "^0.10.3",
+    "valid-url": "^1.0.9"
+  }
+}
