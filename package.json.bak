@@ -1,6 +1,6 @@
-{
-  "name": "geturlData",
-  "version": "0.0.0",
+﻿{
+  "name": "geturldata",
+  "version": "1.0.0",
   "description": "getting or scrapping url and getting info for that",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,7 @@
     "url",
     "fetch"
   ],
+  "repository": "https://github.com/somsharan/node-geturlData.git",
   "author": "Somesh",
   "license": "ISC",
   "devDependencies": {
