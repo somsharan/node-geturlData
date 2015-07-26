@@ -1,6 +1,6 @@
 ﻿{
   "name": "geturldata",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get URL meta information and images of the particular url page",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "fetch"
   ],
   "repository": "https://github.com/somsharan/node-geturlData.git",
-  "author": "Somesh",
+  "author": "Somesh(somsharan)",
   "license": "ISC",
   "devDependencies": {
     "cheerio": "^0.19.0",

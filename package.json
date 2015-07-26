@@ -11,9 +11,9 @@
     "fetch"
   ],
   "repository": "https://github.com/somsharan/node-geturlData.git",
-  "author": "Somesh",
+  "author": "Somesh(somsharan)",
   "license": "ISC",
-  "devDependencies": {
+  "dependencies": {
     "cheerio": "^0.19.0",
     "request": "^2.58.0",
     "url": "^0.10.3",
