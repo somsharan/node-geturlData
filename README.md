@@ -1,5 +1,7 @@
 # node-geturlData
-Get Url Meta Info and images
+Get Url Meta Info and images present in that page in a Strucutred way, which can be accessed easily.
+
+Works for HTTP and HTTPS protocols
 
 ## Install
 npm install geturldata
