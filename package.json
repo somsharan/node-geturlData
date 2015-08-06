@@ -3,9 +3,6 @@
   "version": "1.0.2",
   "description": "Get URL meta information and images of the particular url page",
   "main": "index.js",
-  "scripts": {
-    "test": "test.js"
-  },
   "keywords": [
     "url",
     "fetch"
