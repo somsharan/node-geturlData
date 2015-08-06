@@ -1,4 +1,6 @@
 # node-geturlData
+[![Build Status](https://travis-ci.org/somsharan/node-geturlData.svg)](https://travis-ci.org/somsharan/node-geturlData)
+
 Get Url Meta Info and images present in that page in a Strucutred way, which can be accessed easily.
 
 Works for HTTP and HTTPS protocols
