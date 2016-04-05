@@ -1,6 +1,6 @@
-﻿{
+{
   "name": "geturldata",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Get URL meta information and images of the particular url page",
   "main": "index.js",
   "keywords": [
